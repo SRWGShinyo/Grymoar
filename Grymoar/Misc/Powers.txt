@@ -1,0 +1,5 @@
+- Move objects ==> 'Fara Standa !' (de l'ancien nordique fara)
+- Change other items ==> 'Bredga Asja !' (de l'ancien nordique bregða ásjá)
+- Teleport ==> 'leika ginnung !' (de l'ancien nordique 	leika ginnung)
+- Slow time ==> 'Bregda Tid !' (de l'ancien nordique bregða tíð )
+- create platforms ==> 'beida asja !' (de l'ancien nordique beiða ásjá)
